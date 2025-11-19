@@ -1,3 +1,140 @@
+
+# Project Name  
+## Web Station
+
+---
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Dependencies](#dependencies)
+- [Installation️ & Setup](#installation--setup)
+- [Folder Structure](#folder-structure)
+- [Contributions](#contributions)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## About the Project 
+  Web Station is your one-stop platform to explore, install, and enjoy web apps.
+  Discover a wide range of tools, games, and utilities — all in one convenient place. Whether you’re looking for productivity apps, entertainment, or creative tools, Web Station connects you to everything you need with just a click.
+
+---
+
+## Project Overview  
+Web Station is an all-in-one digital marketplace designed to help users seamlessly discover, explore, and install web-based applications. From productivity tools and creative utilities to entertainment apps and online games, Web Station makes it easy for users to find everything they need in one centralized hub.
+
+<img src="https://i.ibb.co.com/4n5q4d6X/2.png"/>
+
+---
+
+## Key Features  
+1.Browse and install a diverse collection of web-based apps, tools, and games—all organized with smart categorization for easy discovery.                        2.Personalized recommendations based on user interests, browsing history, and app usage patterns.                                                                3.Safely process in-app or premium feature purchases using encrypted technologies that never store full credit card numbers.                                     4.Clear explanations of how cookies and user data are collected, stored, and used—ensuring a privacy-first browsing experience.                                  5.Apps can make use of precise or approximate location data to offer personalized experiences—such as regional tools, local services, and tailored suggestions.  6.Users can install, update, uninstall, and manage their web apps from a 
+
+---
+
+## Tech Stack  
+**Frontend:** React.js · Tailwind CSS · TypeScript  
+**Backend:** Node.js · 
+**Tools:** Git · VS Code · Firebase · 
+
+---
+
+## Dependencies  
+List required dependencies or major libraries:
+
+```json
+{
+  "react": "^18.x",
+  "express": "^4.x",
+  "mongoose": "^7.x",
+  "tailwindcss": "^3.x"
+}
+```
+
+---
+
+## Installation️ & Setup
+1. Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/touhidcodes/Resume-Craft
+cd resume-craft
+npm install
+```
+
+2. Set up environment variables by creating a `.env` file in the root directory:
+
+```env
+DATABASE_URL=your_database_url
+JWT_SECRET=your_jwt_secret
+```
+
+3. Run the application:
+
+```bash
+npm run dev
+```
+
+---
+
+## Folder Structure
+
+```plaintext
+your-project/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── utils/
+│   └── hooks/
+├── public/
+└── package.json
+```
+
+---
+
+## Contributions (Optional)
+If this is a team project, mention contributors.
+
+| Name            | Role                | Contributions                            |  
+|-----------------|---------------------|------------------------------------------|  
+| Member-1        | Role                | Contributions                            |  
+| Member-2        | Role                | Contributions                            |  
+
+---
+
+## How to Contribute (Optional)
+
+  - Fork the Project
+  - Create a branch (`git checkout -b feature/AmazingFeature`)
+  - Commit changes (`git commit -m 'Add some AmazingFeature'`)
+  - Push the branch (`git push origin feature/AmazingFeature`)
+  - Open a Pull Request
+
+---
+
+## License (Optional)
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+---
+
+## Contact
+
+**Live URL:** [Live Site](https://yourdomain.com/)
+**Email:** [username](your-email@example.com)
+**Portfolio:** [Portfolio](https://yourportfolio.com)
+
+
+
+
+
+
 - Application name
 
   -- Web Station
