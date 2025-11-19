@@ -4,21 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [Dependencies](#dependencies)
-- [Installation️ & Setup](#installation--setup)
-- [Folder Structure](#folder-structure)
-- [Contributions](#contributions)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## About the Project 
   Web Station is your one-stop platform to explore, install, and enjoy web apps.
@@ -81,8 +66,8 @@ List required dependencies or major libraries:
 1. Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/touhidcodes/Resume-Craft
-cd resume-craft
+git clone https://github.com/israt9528/Web-Station.git
+cd Web-Station.git
 npm install
 ```
 
@@ -90,7 +75,7 @@ npm install
 
 ```env
 DATABASE_URL=your_database_url
-JWT_SECRET=your_jwt_secret
+
 ```
 
 3. Run the application:
@@ -109,60 +94,26 @@ your-project/
 ├── src/
 │   ├── components/
 │   ├── pages/
-│   ├── utils/
+│   ├── routes/
 │   └── hooks/
 ├── public/
 └── package.json
 ```
 
----
 
-## Contributions (Optional)
-If this is a team project, mention contributors.
-
-| Name            | Role                | Contributions                            |  
-|-----------------|---------------------|------------------------------------------|  
-| Member-1        | Role                | Contributions                            |  
-| Member-2        | Role                | Contributions                            |  
-
----
-
-## How to Contribute (Optional)
-
-  - Fork the Project
-  - Create a branch (`git checkout -b feature/AmazingFeature`)
-  - Commit changes (`git commit -m 'Add some AmazingFeature'`)
-  - Push the branch (`git push origin feature/AmazingFeature`)
-  - Open a Pull Request
-
----
-
-## License (Optional)
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
----
 
 ## Contact
 
-**Live URL:** [Live Site](https://yourdomain.com/)
-**Email:** [username](your-email@example.com)
-**Portfolio:** [Portfolio](https://yourportfolio.com)
+**Live URL:** [Live Site](https://mellifluous-lollipop-ca6c17.netlify.app/)
+**Email:** [username](israt9528@gmail.com)
 
 
 
 
 
 
-- Application name
 
-  -- Web Station
 
-- Description
-
-  Web Station is your one-stop platform to explore, install, and enjoy web apps.
-  Discover a wide range of tools, games, and utilities — all in one convenient place. Whether you’re looking for productivity apps, entertainment, or creative tools, Web Station connects you to everything you need with just a click.
-
-- Technologies
 
   Advertising
   How Web Station uses cookies
